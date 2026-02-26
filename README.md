@@ -1,8 +1,8 @@
-# 🕊️ Senay Hilna - ሰናይ ህልና
+# 🕊️ Senay Hilna - ሠናይ ኅልና
 
 **A Community of Good Conscience | Growing Together Physically, Spiritually & Morally**
 
-[![Website](https://img.shields.io/badge/Website-Live-blue)](https://your-username.github.io/senay-hilna)
+[![Website](https://img.shields.io/badge/Website-Live-blue)](https://Isorgak.github.io/senay-hilna)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -11,7 +11,7 @@
 
 ## 📖 About
 
-**Senay Hilna (ሰናይ ህልና)** is an online Catholic spiritual community dedicated to nurturing growth in body, soul, and conscience. We provide an open table where brothers can:
+**Senay Hilna (ሠናይ ኅልና)** is an online Catholic spiritual community dedicated to nurturing growth in body, soul, and conscience. We provide an open table where brothers can:
 
 - 🙏 **Exchange experiences** and wisdom
 - 🎵 **Raise awareness** through song and poetry  
@@ -26,9 +26,7 @@
 
 ## 🌐 Live Website
 
-Visit our website: **[https://your-username.github.io/senay-hilna](https://your-username.github.io/senay-hilna)**
-
-*(Replace `your-username` with your actual GitHub username after deployment)*
+Visit our website: **[https://Isorgak.github.io/senay-hilna](https://Isorgak.github.io/senay-hilna)**
 
 ---
 
@@ -82,7 +80,7 @@ senay-hilna/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/senay-hilna.git
+git clone https://github.com/Isorgak/senay-hilna.git
 
 # Or download as ZIP and extract
 ```
@@ -147,8 +145,8 @@ Edit the social links in `index.html` (around line 250):
 Edit contact details in `index.html` (around line 320):
 
 ```html
-<p class="contact-value" id="phoneNum">+44 YOUR-PHONE-NUMBER</p>
-<p class="contact-value" id="emailAddr">your-email@gmail.com</p>
+<p class="contact-value" id="phoneNum">+44 7404246402</p>
+<p class="contact-value" id="emailAddr">senayhlnaindex@gmail.com</p>
 ```
 
 ### Update Mission Statement
@@ -210,7 +208,7 @@ Replace the form with a simple mailto link:
 3. Select **Deploy from a branch**
 4. Choose **main** branch and **/(root)** folder
 5. Click **Save**
-6. Your site will be live at: `https://your-username.github.io/senay-hilna`
+6. Your site will be live at: `https://Isorgak.github.io/senay-hilna`
 
 ### Netlify (Free)
 
@@ -296,7 +294,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Email:** senayhilna@gmail.com
+- **Email:** senayhlnaindex@gmail.com
 - **Phone:** +44 7404246402
 - **Zoom:** Meeting ID 610-908-2016 (Password: SWS)
 
@@ -312,5 +310,5 @@ This project is open source and available under the [MIT License](LICENSE).
 <p align="center">
   <strong>Made with ❤️ for the glory of God</strong>
   <br>
-  <em>Senay Hilna - ሰናይ ህልና</em>
+  <em>Senay Hilna - ሠናይ ኅልና</em>
 </p>
